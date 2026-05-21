@@ -1,6 +1,7 @@
 # BDI
 Materiais de aula de banco de dados I
 
+dudubomdebola - Eduardo Mendes Correia Dos Santos - 10935
 BRW01 - Bruno Juan Alves Diaz - 10968
 g.soares - Gabriel Soares Gomes - 10915
 daviabade7 - Davi Vilela Abade - 10916
